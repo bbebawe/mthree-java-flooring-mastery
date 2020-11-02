@@ -1,0 +1,4 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+4,mike,KY,6.00,Tile,100.00,3.50,4.15,350.00,415.00,45.90,810.90
+6,beshoy refaat,KY,6.00,Laminate,150,1.75,2.10,262.50,315.00,34.65,612.15
+7,mike/ inc.,WA,9.25,Carpet,100,2.25,2.10,225.00,210.00,40.24,475.24
